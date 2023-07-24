@@ -1,0 +1,1 @@
+Sneaker Shop built with the MERN stack & Redux.
