@@ -53,7 +53,3 @@ Which one was paied or delivered
 <br>
 ![Screenshot from 2023-08-17 09-06-15](https://github.com/thallesgadelha/mern-sneaker-shop/assets/63134583/3d926916-ffc9-4c7a-9483-fc5f8aa3bd02)
 <br>
-
-### Test routes/authentication with postman
-![Screenshot from 2023-08-17 09-09-42](https://github.com/thallesgadelha/mern-sneaker-shop/assets/63134583/1eee70b6-916b-40af-b9ae-d692e3578e20)
-
