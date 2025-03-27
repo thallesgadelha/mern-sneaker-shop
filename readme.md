@@ -1,7 +1,5 @@
 Sneaker Shop built with the MERN stack & Redux.
 
-(Website) - https://sneakershop.onrender.com/
-
 <hr>
 
 ![sneakershop](https://github.com/thallesgadelha/mern-sneaker-shop/assets/63134583/da189fb1-44e1-4f72-ace3-436292e78880)
